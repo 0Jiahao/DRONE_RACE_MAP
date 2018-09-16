@@ -8,7 +8,7 @@ Add the following line
 ```
 export GAZEBO_MODEL_PATH=[this repository]/models:$GAZEBO_MODEL_PATH
 ```
-If the models still not loaded automatically, try
+If the model still not loaded automatically, try
 ```
 cp -r [this repository]/models/* ~/.gazebo/models/
 ```
